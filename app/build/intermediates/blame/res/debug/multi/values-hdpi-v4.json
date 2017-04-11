@@ -1,57 +1,5 @@
 [
     {
-        "outputFile": "/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/C:\\Users\\SUPERUSER\\AndroidStudioProjects\\new barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\values-hdpi-v4\\values-hdpi-v4.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endLine": 6,
-                    "endColumn": 13,
-                    "endOffset": 327
-                },
-                "from": {
-                    "file": "/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/C:\\Users\\SUPERUSER\\AndroidStudioProjects\\new barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-hdpi\\values-hdpi.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 286,
-                        "endLine": 8,
-                        "endColumn": 13,
-                        "endOffset": 558
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\values-hdpi-v4\\values-hdpi-v4.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endLine": 6,
-                    "endColumn": 13,
-                    "endOffset": 327
-                },
-                "from": {
-                    "file": "/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-hdpi\\values-hdpi.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 286,
-                        "endLine": 8,
-                        "endColumn": 13,
-                        "endOffset": 558
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
         "map": [
             {
@@ -64,14 +12,14 @@
                     "endOffset": 327
                 },
                 "from": {
-                    "file": "/Users/samarthgupta/.android/build-cache/ecf3f558f35a9da08d53f0a5232cbf1324b86888/output/res/values-hdpi/values-hdpi.xml",
+                    "file": "/Users/samarthgupta/.android/build-cache/271a421c8944496665ced5e4e190e40fb576ae73/output/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 286,
-                        "endLine": 8,
+                        "startOffset": 55,
+                        "endLine": 6,
                         "endColumn": 13,
-                        "endOffset": 558
+                        "endOffset": 327
                     }
                 }
             }

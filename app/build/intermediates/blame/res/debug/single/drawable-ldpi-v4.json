@@ -1,14 +1,6 @@
 [
     {
-        "merged": "/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
-        "source": "/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
-    },
-    {
         "merged": "/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/common_ic_googleplayservices.png",
         "source": "/Users/samarthgupta/.android/build-cache/9f73ae22143336e732175ce8fe2d97be43f35ef6/output/res/drawable-ldpi-v4/common_ic_googleplayservices.png"
-    },
-    {
-        "merged": "/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/C:\\Users\\SUPERUSER\\AndroidStudioProjects\\new barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
-        "source": "/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/C:\\Users\\SUPERUSER\\AndroidStudioProjects\\new barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
     }
 ]

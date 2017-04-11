@@ -13,7 +13,9 @@
 
     <uses-permission android:name="android.permission.CAMERA" />
 
-    <!-- Include required permissions for Google Mobile Ads to run -->
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" /> <!-- Include required permissions for Google Mobile Ads to run -->
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- Optional permission for Analytics to run. -->
     <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Permissions required for GCM -->
@@ -28,10 +30,6 @@
     <uses-feature
         android:glEsVersion="0x00020000"
         android:required="true" />
-
-    <meta-data
-        android:name="android.support.VERSION"
-        android:value="25.3.0" />
 
     <application
         android:allowBackup="true"

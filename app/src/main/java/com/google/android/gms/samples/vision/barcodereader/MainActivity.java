@@ -104,8 +104,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
                 if (data != null) {
                     Barcode barcode = data.getParcelableExtra(BarcodeCaptureActivity.BarcodeObject);
                     Log.d(TAG, "Barcode read: " + barcode.displayValue);
-
-                  //  startActivity(new Intent(MainActivity.this,SelectStationActivity.class));
+                    startActivity(new Intent(MainActivity.this,SelectStationActivity.class));
                    statusMessage.setText(R.string.barcode_success);
                     barcodeValue.setText(barcode.displayValue);
 
@@ -121,5 +120,6 @@ public class MainActivity extends Activity implements View.OnClickListener {
         else {
             super.onActivityResult(requestCode, resultCode, data);
         }
+        startActivity(new Intent(MainActivity.this,SelectStationActivity.class));
     }
 }

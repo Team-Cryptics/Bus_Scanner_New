@@ -1,26 +1,10 @@
 [
     {
-        "merged": "/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/C:\\Users\\SUPERUSER\\AndroidStudioProjects\\new barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\barcode_capture.xml",
-        "source": "/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/C:\\Users\\SUPERUSER\\AndroidStudioProjects\\new barcode-reader\\app\\src\\main\\res\\layout-land\\barcode_capture.xml"
-    },
-    {
-        "merged": "/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/C:\\Users\\SUPERUSER\\AndroidStudioProjects\\new barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_main.xml",
-        "source": "/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/C:\\Users\\SUPERUSER\\AndroidStudioProjects\\new barcode-reader\\app\\src\\main\\res\\layout-land\\activity_main.xml"
-    },
-    {
         "merged": "/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/res/merged/debug/layout-land/activity_main.xml",
         "source": "/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/src/main/res/layout-land/activity_main.xml"
     },
     {
-        "merged": "/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\barcode_capture.xml",
-        "source": "/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\src\\main\\res\\layout-land\\barcode_capture.xml"
-    },
-    {
         "merged": "/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/res/merged/debug/layout-land/barcode_capture.xml",
         "source": "/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/src/main/res/layout-land/barcode_capture.xml"
-    },
-    {
-        "merged": "/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_main.xml",
-        "source": "/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\src\\main\\res\\layout-land\\activity_main.xml"
     }
 ]

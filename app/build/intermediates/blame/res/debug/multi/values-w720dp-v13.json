@@ -1,29 +1,5 @@
 [
     {
-        "outputFile": "/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\values-w720dp-v13\\values-w720dp-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 76,
-                    "endOffset": 127
-                },
-                "from": {
-                    "file": "/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-w720dp\\values-w720dp.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 282,
-                        "endColumn": 76,
-                        "endOffset": 354
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w720dp-v13/values-w720dp-v13.xml",
         "map": [
             {
@@ -35,31 +11,7 @@
                     "endOffset": 127
                 },
                 "from": {
-                    "file": "/Users/samarthgupta/.android/build-cache/ecf3f558f35a9da08d53f0a5232cbf1324b86888/output/res/values-w720dp/values-w720dp.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 282,
-                        "endColumn": 76,
-                        "endOffset": 354
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/C:\\Users\\SUPERUSER\\AndroidStudioProjects\\new barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\values-w720dp-v13\\values-w720dp-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 76,
-                    "endOffset": 127
-                },
-                "from": {
-                    "file": "/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/C:\\Users\\SUPERUSER\\AndroidStudioProjects\\new barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-w720dp\\values-w720dp.xml",
+                    "file": "/Users/samarthgupta/.android/build-cache/5924d7c7d2e68a369bd2c580a711403496c0ddfa/output/res/values-w720dp/values-w720dp.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

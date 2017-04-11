@@ -1,14 +1,22 @@
 [
     {
-        "merged": "/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
-        "source": "/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/C:\\Users\\Maxwell\\Documents\\GitHub\\Vision-Barcode-Scanner\\barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.0\\res\\layout-v21\\place_autocomplete_fragment.xml"
+        "merged": "/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/samarthgupta/.android/build-cache/271a421c8944496665ced5e4e190e40fb576ae73/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/samarthgupta/.android/build-cache/271a421c8944496665ced5e4e190e40fb576ae73/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/samarthgupta/.android/build-cache/271a421c8944496665ced5e4e190e40fb576ae73/output/res/layout-v21/notification_template_icon_group.xml"
     },
     {
         "merged": "/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
         "source": "/Users/samarthgupta/.android/build-cache/d8a703f5c4785eff5aa55d76f96f5c3b758b37a3/output/res/layout-v21/place_autocomplete_fragment.xml"
     },
     {
-        "merged": "/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/C:\\Users\\SUPERUSER\\AndroidStudioProjects\\new barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
-        "source": "/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/C:\\Users\\SUPERUSER\\AndroidStudioProjects\\new barcode-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.0\\res\\layout-v21\\place_autocomplete_fragment.xml"
+        "merged": "/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/samarthgupta/.android/build-cache/271a421c8944496665ced5e4e190e40fb576ae73/output/res/layout-v21/notification_action_tombstone.xml"
     }
 ]

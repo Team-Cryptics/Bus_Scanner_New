@@ -2,15 +2,6 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/32120b2c2980e75040754387942507c736412593/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="817b9101192f2fd6dc0fd8cd522d8f4a1a75fcdc">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_23a360856bd1e32340f0843cefdc407c2ba7684d.jar" />
-    </item>
-    <item
         is-multidex="true"
         jar="/Users/samarthgupta/.android/build-cache/bc00ce5cab91d713927ecfffb04b18cff14ccb4f/output/jars/classes.jar"
         jumboMode="false"
@@ -20,13 +11,31 @@
         <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_400d96d28c0946421c8ee6ce1534ac4aafaeffcb/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/abfc9f4602b23ee530ad15a678e0e091502a4ae2/output/jars/classes.jar"
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/ebf8fd77dcc6eb022293ec6b983fc09b419afac2/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.0"
-        sha1="d7002ed92a3c46c6a89a786877ecf7978a4f0459">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_d0c81a6a4b4473eba29cca7f3ed1cde850d2ceb3.jar" />
+        revision="25.0.2"
+        sha1="d96f9f3ef66494d1231304cafd28c962dda80dea">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_87b9bf6f7c7c408620adc122436052a5400a5f7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/9436bd540afc0860608459fd427b6f5b7c5258e8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_101a8c9dac0e0f04dd26d733af3f3301eb05a6c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/763c5391560810461809141fac32318f5ae13d00/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bbb08bba4ee953ab287ed53fd5cd8a2f653f2a49/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -47,40 +56,31 @@
         <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_02d34a304149cc25307975ffaa202ecdec76ed33/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/bc00ce5cab91d713927ecfffb04b18cff14ccb4f/output/jars/classes.jar"
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/118badbc01fae6a62807ae9cd92ad3dc31b0a1f7/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.0"
-        sha1="184428c29b2a4b220cd44284d515db5d8cb5fc76">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_400d96d28c0946421c8ee6ce1534ac4aafaeffcb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/16aa1b37d3ca65d9b546168b80c430117b650b34/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="7e467a973b749c6390a5991c9a8edbde96fc10c9">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_7cee813af888287659a7b15b3e66adcc4d40c513.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/6ea68aac80af919f46b425a9788b1faf0661fb70/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="0facc6fc326f2406f4bb9b02f442994c5ce6a403">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_8997c28ba35b680a061cd14f221f9bdb3ff5951d.jar" />
+        revision="25.0.2"
+        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_109b384671f7c28992e63ef87b709f9667e1ea55/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/samarthgupta/.android/build-cache/f07223770e4471a1fa10b0a833e0c67fc27cadf9/output/jars/libs/internal_impl-23.0.0.jar"
+        jar="/Users/samarthgupta/.android/build-cache/08e90f4a7854bf8c43e3300b3c389c34c89ac37a/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.0"
-        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_c1101ace5024beeaff0feb28fc00b036491c15eb/classes.dex" />
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fd3df51a425dd6fb3d5e3f10eb72ecb879544456/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/2ba9643395222ee649ec14b5128fbe277fffcde1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="379d1834afa3c08f43be23a23b103053537b65b5">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f9fed68bfd0b1a6e2dd4d04b88fb7c65da83fbfe/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -102,6 +102,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/c62ed3b9ca3f92b88a925dd55b2b794a3850bd63/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a819aae4f0c711e50b4fd633922a3c1a176cb51e">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1efbe2f1532f25ea409e15d53280f0c5b53d2db9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/samarthgupta/.android/build-cache/32120b2c2980e75040754387942507c736412593/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -110,13 +119,13 @@
         <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_23a360856bd1e32340f0843cefdc407c2ba7684d/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/ed9ea7f6a99a247230023cc3198fc3e24a860b05/output/jars/classes.jar"
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/d8a703f5c4785eff5aa55d76f96f5c3b758b37a3/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.0"
-        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_7b101d1c81cdc721157a64161f847620cad0016d.jar" />
+        revision="25.0.2"
+        sha1="59cca9b91688dc2467754d36793b3d23bebd21a9">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f1701c5323911e4995a6c91980927f029bd618ec/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -128,31 +137,40 @@
         <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8bffe70e79c7163a7083dcc5a864c718b7583c79/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/6c0f1a068917e0274db4e5507a8373a8c07b46bb/output/jars/classes.jar"
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/b03d915eed7445572f9dfb3b336047167d268ea6/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.0"
-        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_8bffe70e79c7163a7083dcc5a864c718b7583c79.jar" />
+        revision="25.0.2"
+        sha1="4caf75b2cfb7ec6e80a57d0ee64fc102ad3578b8">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2a4de62ae61a91afc1108c912202a799e5243259/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/365030d59fda301ce59057b33df5d0f1e16864a3/output/jars/classes.jar"
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/6f78883f80ae7e1e665c57babfb6f365a96f358a/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.0"
-        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_e6c10348194ee2613608f01085a8781197300ef6.jar" />
+        revision="25.0.2"
+        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_836dce94427f2c0691574be71359d0ce5e9db63f/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/f07223770e4471a1fa10b0a833e0c67fc27cadf9/output/jars/libs/internal_impl-23.0.0.jar"
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/92225cc6ef15f86329fb9bb1a6b972b2b3bf209f/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.0"
-        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_c1101ace5024beeaff0feb28fc00b036491c15eb.jar" />
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0d400944aa11378e306c5e470f013ae76d9faf31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/da297f46f2c2554bcd94cf9865ae665771135ff6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b8bedab61b3b5238cd9a07d3b04449d7fecdbc3b">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4ec284ace34f52852bd72959f6b62ecae0e5d402/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -162,42 +180,6 @@
         revision="25.0.0"
         sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
         <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e6c10348194ee2613608f01085a8781197300ef6/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/0adf593aa10f807ef37481b2d42763b61311e627/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="294d49a66cc1238d9f7fd352136a45622fa98c0f">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_4ac93bc096aee2643ea452761995113100b45bcb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/41c36b2a9d775a199f0d3bef08622af9e864b52e/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="2c5bc0ebbe69c9fab587c2216b36ec44ab8f0704">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_274ec412736dba4e55ea8ca2bb717c6e562844c7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/4d8fd020e6c892e0f906e7bd5d11c2622aeb6f70/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="e595f98f8c525201dccd119f43ad1ddacd4c48d6">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_02d34a304149cc25307975ffaa202ecdec76ed33.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/5594aff2e830a0eb186b0c7a7ad6164739d8897c/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="ed16ff19f0a9515604a0f08104ca0317b82e29e3">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_1c8ef15195d1999e0efc7adaa5773cdc5fc4a106.jar" />
     </item>
     <item
         is-multidex="true"
@@ -218,15 +200,6 @@
         <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_49542be800be015d7810fadc27b6e9fcf33d5362/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/ecf3f558f35a9da08d53f0a5232cbf1324b86888/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_96cdd9dfdd7b045c0295d80c1d3506ddedad6bdf.jar" />
-    </item>
-    <item
         is-multidex="true"
         jar="/Users/samarthgupta/.android/build-cache/5594aff2e830a0eb186b0c7a7ad6164739d8897c/output/jars/classes.jar"
         jumboMode="false"
@@ -245,22 +218,13 @@
         <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4ac93bc096aee2643ea452761995113100b45bcb/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/1ecf048ee39c152a8e1b4bb8d5c8d9a03d52f59a/output/jars/classes.jar"
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/eecf7ec7be95ccc91f57f77f6031279e318504be/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.0"
-        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_49542be800be015d7810fadc27b6e9fcf33d5362.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/c2f25effce9d7d949fbf914f94c49c09d34cdee2/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="4431efe5d0f67fab36a698dde725946b33a6bf4a">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_6990077a792d4ce24b5e5355f24eb67931f17941.jar" />
+        revision="25.0.2"
+        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cf788b60d6d0aa0b5915887a6eefb80236ab6bf2/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -273,21 +237,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/samarthgupta/.android/build-cache/ecf3f558f35a9da08d53f0a5232cbf1324b86888/output/jars/classes.jar"
+        jar="/Users/samarthgupta/.android/build-cache/763c5391560810461809141fac32318f5ae13d00/output/jars/libs/internal_impl-23.0.0.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.0"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_96cdd9dfdd7b045c0295d80c1d3506ddedad6bdf/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/9f73ae22143336e732175ce8fe2d97be43f35ef6/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_e1830133ba1fd76d3168e639ff38b2ed18924254.jar" />
+        revision="25.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_e8d627ef4a76c57278caac2f0109d77ae68bc417/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -308,33 +263,6 @@
         <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6990077a792d4ce24b5e5355f24eb67931f17941/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/f04ad345c4f4d0735a5c8833c396fb139d9c6658/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="373cd65725af2781d100ddc193c7d3f14464a774">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_b2e9a4424fcdba8d4ffaed3fefd87a2ecf6a769f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.0_7890f5300707a72f355187f6c4ceaa4f7bde466c.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/samarthgupta/.android/build-cache/f07223770e4471a1fa10b0a833e0c67fc27cadf9/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e0502514ef3d616d7e724d219ec30363931ea9a2/classes.dex" />
-    </item>
-    <item
         is-multidex="true"
         jar="/Users/samarthgupta/.android/build-cache/118badbc01fae6a62807ae9cd92ad3dc31b0a1f7/output/jars/classes.jar"
         jumboMode="false"
@@ -342,6 +270,33 @@
         revision="25.0.0"
         sha1="70ddab48594608953b20164b82f1f890a9a8174a">
         <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_109b384671f7c28992e63ef87b709f9667e1ea55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/763c5391560810461809141fac32318f5ae13d00/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bbb08bba4ee953ab287ed53fd5cd8a2f653f2a49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/4d8fd020e6c892e0f906e7bd5d11c2622aeb6f70/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e595f98f8c525201dccd119f43ad1ddacd4c48d6">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_02d34a304149cc25307975ffaa202ecdec76ed33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/70932efad2188667f78e62c6641ffa976f2b00a0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5289e799a43a64c4137d109bf992e10a2f952aa3">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2781ba5de9496305528f6be14636215f8a22df61/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -353,49 +308,40 @@
         <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5ebe118f601461d32c3c2d7fac55227fdc13e276/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/118badbc01fae6a62807ae9cd92ad3dc31b0a1f7/output/jars/classes.jar"
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/bc00ce5cab91d713927ecfffb04b18cff14ccb4f/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.0"
-        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_109b384671f7c28992e63ef87b709f9667e1ea55.jar" />
+        revision="25.0.2"
+        sha1="184428c29b2a4b220cd44284d515db5d8cb5fc76">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_400d96d28c0946421c8ee6ce1534ac4aafaeffcb/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/samarthgupta/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jar="/Users/samarthgupta/.android/build-cache/6c0f1a068917e0274db4e5507a8373a8c07b46bb/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.0"
-        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.0_7890f5300707a72f355187f6c4ceaa4f7bde466c/classes.dex" />
+        revision="25.0.2"
+        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8bffe70e79c7163a7083dcc5a864c718b7583c79/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/ab08eefd0b72d0aea54481c1f8b927b3bb7e56c6/output/jars/classes.jar"
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/ed9ea7f6a99a247230023cc3198fc3e24a860b05/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.0"
-        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_5ebe118f601461d32c3c2d7fac55227fdc13e276.jar" />
+        revision="25.0.2"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7b101d1c81cdc721157a64161f847620cad0016d/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/f07223770e4471a1fa10b0a833e0c67fc27cadf9/output/jars/classes.jar"
+        is-multidex="true"
+        jar="/Users/samarthgupta/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.0"
-        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_e0502514ef3d616d7e724d219ec30363931ea9a2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/58ab25d30bc85be1b46c0129ab0772e60567f2a9/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="8126914f5bc372a33e27ea90f02412c32468ce8a">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_34069f8f4f61bae77de4dd4bfea9cdbfd81a5d67.jar" />
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_88ed7dd0d1e13d9cafe606422e9ab939a81ba585/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -408,21 +354,21 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/41c36b2a9d775a199f0d3bef08622af9e864b52e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c5bc0ebbe69c9fab587c2216b36ec44ab8f0704">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_274ec412736dba4e55ea8ca2bb717c6e562844c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/samarthgupta/.android/build-cache/58ab25d30bc85be1b46c0129ab0772e60567f2a9/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="8126914f5bc372a33e27ea90f02412c32468ce8a">
         <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_34069f8f4f61bae77de4dd4bfea9cdbfd81a5d67/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/a22ca7be74b9ad18bf52ce43b3cff6e59b732be4/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="733964f04c339e425439545b1d172c23b53f8c13">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_32e9b29cc96e5a081504dbcac1fb8e1cca5cb672.jar" />
     </item>
     <item
         is-multidex="true"
@@ -434,22 +380,58 @@
         <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_32e9b29cc96e5a081504dbcac1fb8e1cca5cb672/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/4142e5b6c8eb44b5d3c97fe04814e67f798a6d7a/output/jars/classes.jar"
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/4a0c7372ddae0a0f74147b4e43fad1308324d9c0/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.0"
-        sha1="2f7bd8cc7519d5231aa8d2ae8e905d3f602bd491">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_a955e907138516d56662c624bf13505bbada021a.jar" />
+        revision="25.0.2"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_84827c9f3259c6068cc63fc45b6e3718c72a741b/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/7d5a62e967aae680ed4fe2e9bbffb53c3d08f86e/output/jars/classes.jar"
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/c59d8b110be4f7a8c2d965a3e79a58e429af6c44/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_53a0aa09b913a82671fc789d730776a0cc463ac0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/5f6c00e5a73778c54ac55fb0a5f5ae8b5c503d2a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f1c144730c5ca02e650ce7e61521ce33dee9f474/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/4621ef61b7e9f8c848a6326d3e17a5732d6f4c1d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0bbe9c62baabc0c47a2cf4d12de60fc9fe9f2fa8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/763c5391560810461809141fac32318f5ae13d00/output/jars/libs/internal_impl-23.0.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_9c01d1cdf18804c9e057dd47c5e687f39139217a.jar" />
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_e8d627ef4a76c57278caac2f0109d77ae68bc417/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/9f73ae22143336e732175ce8fe2d97be43f35ef6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e1830133ba1fd76d3168e639ff38b2ed18924254/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -470,31 +452,40 @@
         <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d0c81a6a4b4473eba29cca7f3ed1cde850d2ceb3/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/5cd264717c3057204a689e6653bac64320244ff9/output/jars/classes.jar"
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/e36a80264241ea7bc2c68f48cdb365fc68c65df1/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.0"
-        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_36c1e38cf405a30c935c4812f42684c403f4818a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/3a837426b0158b653de8755ea2a73bc2b24a4ff9/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c5d103b270b3f3b50d8e6b44aa8e068b0de33426">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_e9ff7aaccfc62d528ea3457de86bf642f4a4ea9e.jar" />
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c19d0def9363daa552dbf63f9f3ce3a3ca6beb02/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/samarthgupta/.android/build-cache/29b484b281c62fac8f59dd275d540daa6d0fb774/output/jars/classes.jar"
+        jar="/Users/samarthgupta/.android/build-cache/5594aff2e830a0eb186b0c7a7ad6164739d8897c/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.0"
-        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4c7374dbb7a71c5aea16a5c365dd91722db037e5/classes.dex" />
+        revision="25.0.2"
+        sha1="ed16ff19f0a9515604a0f08104ca0317b82e29e3">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1c8ef15195d1999e0efc7adaa5773cdc5fc4a106/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/d9a48935e2bda53692a38da5a888f8dd1c4dcd02/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c11cf7a7a6e5adf8fa564303a11dbc351fc11b7c">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7b40bda2a88d0837fdc4610a48a090b001926864/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/5cd264717c3057204a689e6653bac64320244ff9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_36c1e38cf405a30c935c4812f42684c403f4818a/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -504,6 +495,24 @@
         revision="25.0.0"
         sha1="5289e799a43a64c4137d109bf992e10a2f952aa3">
         <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2781ba5de9496305528f6be14636215f8a22df61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/45d8575491cf112a587b3276f42f2b22c9941891/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_28ffe27dca8a812d716455f782162663e5062e89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/f04ad345c4f4d0735a5c8833c396fb139d9c6658/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="373cd65725af2781d100ddc193c7d3f14464a774">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b2e9a4424fcdba8d4ffaed3fefd87a2ecf6a769f/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -524,13 +533,31 @@
         <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5350a9a1d7d22cd18c41e1d41e101780c2e090d8/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/eecf7ec7be95ccc91f57f77f6031279e318504be/output/jars/classes.jar"
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/1ecf048ee39c152a8e1b4bb8d5c8d9a03d52f59a/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.0"
-        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_cf788b60d6d0aa0b5915887a6eefb80236ab6bf2.jar" />
+        revision="25.0.2"
+        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_49542be800be015d7810fadc27b6e9fcf33d5362/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/c2f25effce9d7d949fbf914f94c49c09d34cdee2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4431efe5d0f67fab36a698dde725946b33a6bf4a">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6990077a792d4ce24b5e5355f24eb67931f17941/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/90ae20c1829738ed1ed18db341bca2e43b963c5f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_30fdadd8aedd7fb05520d32d26fd261db51277cb/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -542,76 +569,67 @@
         <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a955e907138516d56662c624bf13505bbada021a/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/29b484b281c62fac8f59dd275d540daa6d0fb774/output/jars/classes.jar"
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/58ab25d30bc85be1b46c0129ab0772e60567f2a9/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.0"
-        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_4c7374dbb7a71c5aea16a5c365dd91722db037e5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/6f78883f80ae7e1e665c57babfb6f365a96f358a/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_836dce94427f2c0691574be71359d0ce5e9db63f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/47346ab8d0e62e1c596c1b2a08af57a59a82a23f/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_5350a9a1d7d22cd18c41e1d41e101780c2e090d8.jar" />
+        revision="25.0.2"
+        sha1="8126914f5bc372a33e27ea90f02412c32468ce8a">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_34069f8f4f61bae77de4dd4bfea9cdbfd81a5d67/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/samarthgupta/.android/build-cache/3a837426b0158b653de8755ea2a73bc2b24a4ff9/output/jars/classes.jar"
+        jar="/Users/samarthgupta/.android/build-cache/06a5b774a2e62da537de01e3f8981f769ba5d0e1/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.0"
-        sha1="c5d103b270b3f3b50d8e6b44aa8e068b0de33426">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e9ff7aaccfc62d528ea3457de86bf642f4a4ea9e/classes.dex" />
+        revision="25.0.2"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5ead849d31f081362a78ab8aeff513e5c1fee1b1/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/samarthgupta/.android/build-cache/9567f6caa650678d888bce9ff209c705385cf6c1/output/jars/libs/internal_impl-23.0.1.jar"
+        jar="/Users/samarthgupta/.android/build-cache/600a6d56eb1e9ec2776e80252cfce2e2b589d1b8/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.0"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.1_548eb68a3d24cca1db0c404c6578934b3251e89f/classes.dex" />
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b8b28133822a23f5ef1aed8ec08772c99382fb9a/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/70932efad2188667f78e62c6641ffa976f2b00a0/output/jars/classes.jar"
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/ab08eefd0b72d0aea54481c1f8b927b3bb7e56c6/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.0"
-        sha1="5289e799a43a64c4137d109bf992e10a2f952aa3">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_2781ba5de9496305528f6be14636215f8a22df61.jar" />
+        revision="25.0.2"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5ebe118f601461d32c3c2d7fac55227fdc13e276/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/2ba9643395222ee649ec14b5128fbe277fffcde1/output/jars/classes.jar"
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/2edc6777fe3bc0eca4dc28b26696f37062cfdf79/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.0"
-        sha1="379d1834afa3c08f43be23a23b103053537b65b5">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_f9fed68bfd0b1a6e2dd4d04b88fb7c65da83fbfe.jar" />
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f7c54a7b5d709b52f72e440fb66d5eb221a38bbe/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/9567f6caa650678d888bce9ff209c705385cf6c1/output/jars/libs/internal_impl-23.0.1.jar"
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/a22ca7be74b9ad18bf52ce43b3cff6e59b732be4/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.0"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_548eb68a3d24cca1db0c404c6578934b3251e89f.jar" />
+        revision="25.0.2"
+        sha1="733964f04c339e425439545b1d172c23b53f8c13">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_32e9b29cc96e5a081504dbcac1fb8e1cca5cb672/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/ff6dc40bc519538390503d8bbf1bc7eb6ef4e425/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ebfde1a055aea400df77584a68aa60609f618bed">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bf13515c2372eb4b3d63a134e5b266d6904c5e67/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -621,6 +639,15 @@
         revision="25.0.0"
         sha1="24536a7b97926a9c155c88425da6875adeb11b51">
         <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_836dce94427f2c0691574be71359d0ce5e9db63f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/d2d5766d7df8fb91730fc4b11160195320f3a930/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_973d1967ce3409628bd3844cf43972f3d96600a3/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -651,6 +678,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/16aa1b37d3ca65d9b546168b80c430117b650b34/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e467a973b749c6390a5991c9a8edbde96fc10c9">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7cee813af888287659a7b15b3e66adcc4d40c513/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/samarthgupta/.android/build-cache/2ba9643395222ee649ec14b5128fbe277fffcde1/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -659,49 +695,31 @@
         <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f9fed68bfd0b1a6e2dd4d04b88fb7c65da83fbfe/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/ab892cc2216af48cc21f775de8fbb695aa12ff66/output/jars/classes.jar"
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/9f16e989ccf100de8327b13850e8abb93aa3851f/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.0"
-        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_741afec8338d70a62a7fa1b1ba1c679f8346358f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_4382214cd0140d9c63b17243181ad120a9d382ae.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/8360b13801de06242fa7c26b8bd69f4792a80ae5/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="69472e334350cafbf442776da05c9a04955252fb">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_98d28fbb451b586e66220c32d86175b06e97eb34.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/644b5dd1dfa9841d020eb3825dbce406ff5f2a8c/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_0bc0dec497a95a247bbd4134a07f00c7a261d9b9.jar" />
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6dea9838727948ff8f8fc163270368de835e953b/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/samarthgupta/.android/build-cache/ff104ff7a8abc46c4896746b4f3dd7119531cefc/output/jars/classes.jar"
+        jar="/Users/samarthgupta/.android/build-cache/e749d25ffac008df3c2588b642d1aaf46efb3d03/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.0"
-        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7c9c12516f74b760312e06a11677d047f683d446/classes.dex" />
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_20d4fee48e0f119224c123541935e38d75545da3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/7d5a62e967aae680ed4fe2e9bbffb53c3d08f86e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9c01d1cdf18804c9e057dd47c5e687f39139217a/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -714,6 +732,24 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/271a421c8944496665ced5e4e190e40fb576ae73/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f38eebdecbab11f98e6ce5ee6502ac3fe1678abd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/4142e5b6c8eb44b5d3c97fe04814e67f798a6d7a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f7bd8cc7519d5231aa8d2ae8e905d3f602bd491">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a955e907138516d56662c624bf13505bbada021a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/samarthgupta/.android/build-cache/8360b13801de06242fa7c26b8bd69f4792a80ae5/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -722,40 +758,13 @@
         <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_98d28fbb451b586e66220c32d86175b06e97eb34/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/4621ef61b7e9f8c848a6326d3e17a5732d6f4c1d/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_0bbe9c62baabc0c47a2cf4d12de60fc9fe9f2fa8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/9436bd540afc0860608459fd427b6f5b7c5258e8/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_101a8c9dac0e0f04dd26d733af3f3301eb05a6c2.jar" />
-    </item>
-    <item
         is-multidex="true"
-        jar="/Users/samarthgupta/.android/build-cache/644b5dd1dfa9841d020eb3825dbce406ff5f2a8c/output/jars/classes.jar"
+        jar="/Users/samarthgupta/.android/build-cache/6ea68aac80af919f46b425a9788b1faf0661fb70/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.0"
-        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0bc0dec497a95a247bbd4134a07f00c7a261d9b9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/samarthgupta/.android/build-cache/9567f6caa650678d888bce9ff209c705385cf6c1/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2e546196c10492a06c877350945a2ff824da1531/classes.dex" />
+        revision="25.0.2"
+        sha1="0facc6fc326f2406f4bb9b02f442994c5ce6a403">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8997c28ba35b680a061cd14f221f9bdb3ff5951d/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -767,67 +776,22 @@
         <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_28ffe27dca8a812d716455f782162663e5062e89/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/ff104ff7a8abc46c4896746b4f3dd7119531cefc/output/jars/classes.jar"
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/0adf593aa10f807ef37481b2d42763b61311e627/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.0"
-        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_7c9c12516f74b760312e06a11677d047f683d446.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/06a5b774a2e62da537de01e3f8981f769ba5d0e1/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_5ead849d31f081362a78ab8aeff513e5c1fee1b1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/4a0c7372ddae0a0f74147b4e43fad1308324d9c0/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_84827c9f3259c6068cc63fc45b6e3718c72a741b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/d8a703f5c4785eff5aa55d76f96f5c3b758b37a3/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="59cca9b91688dc2467754d36793b3d23bebd21a9">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_f1701c5323911e4995a6c91980927f029bd618ec.jar" />
+        revision="25.0.2"
+        sha1="294d49a66cc1238d9f7fd352136a45622fa98c0f">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4ac93bc096aee2643ea452761995113100b45bcb/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/samarthgupta/.android/build-cache/1631aee2ffefcc3185d7631a40c9fe7c6a77f9b6/output/jars/classes.jar"
+        jar="/Users/samarthgupta/.android/build-cache/abfc9f4602b23ee530ad15a678e0e091502a4ae2/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.0"
-        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dcae4a7c6a4838d1c0d05df7755ad8045116d138/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/ff6dc40bc519538390503d8bbf1bc7eb6ef4e425/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="ebfde1a055aea400df77584a68aa60609f618bed">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_bf13515c2372eb4b3d63a134e5b266d6904c5e67.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/305a5fc8ff8bbb70fb1ed88cb4a430fb31d2176a/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_6511589cf6915a0bf147e2a9e2d93d93daf20aeb.jar" />
+        revision="25.0.2"
+        sha1="d7002ed92a3c46c6a89a786877ecf7978a4f0459">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d0c81a6a4b4473eba29cca7f3ed1cde850d2ceb3/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -848,15 +812,6 @@
         <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f1701c5323911e4995a6c91980927f029bd618ec/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/b03d915eed7445572f9dfb3b336047167d268ea6/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="4caf75b2cfb7ec6e80a57d0ee64fc102ad3578b8">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_2a4de62ae61a91afc1108c912202a799e5243259.jar" />
-    </item>
-    <item
         is-multidex="true"
         jar="/Users/samarthgupta/.android/build-cache/c62ed3b9ca3f92b88a925dd55b2b794a3850bd63/output/jars/classes.jar"
         jumboMode="false"
@@ -866,22 +821,31 @@
         <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1efbe2f1532f25ea409e15d53280f0c5b53d2db9/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/ebf8fd77dcc6eb022293ec6b983fc09b419afac2/output/jars/classes.jar"
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/1ddcceb5a4f1ea93394d4529e983eb6fdcc77b76/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.0"
-        sha1="d96f9f3ef66494d1231304cafd28c962dda80dea">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_87b9bf6f7c7c408620adc122436052a5400a5f7e.jar" />
+        revision="25.0.2"
+        sha1="67a7d712de3e7d025f4efdcec1da183f764bdbab">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a407a143e34d392bded2788816e9a22474c7ae1d/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/1631aee2ffefcc3185d7631a40c9fe7c6a77f9b6/output/jars/classes.jar"
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/ab892cc2216af48cc21f775de8fbb695aa12ff66/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.0"
-        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_dcae4a7c6a4838d1c0d05df7755ad8045116d138.jar" />
+        revision="25.0.2"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_741afec8338d70a62a7fa1b1ba1c679f8346358f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/365030d59fda301ce59057b33df5d0f1e16864a3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e6c10348194ee2613608f01085a8781197300ef6/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -902,15 +866,6 @@
         <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_87b9bf6f7c7c408620adc122436052a5400a5f7e/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/c62ed3b9ca3f92b88a925dd55b2b794a3850bd63/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a819aae4f0c711e50b4fd633922a3c1a176cb51e">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_1efbe2f1532f25ea409e15d53280f0c5b53d2db9.jar" />
-    </item>
-    <item
         is-multidex="true"
         jar="/Users/samarthgupta/.android/build-cache/b03d915eed7445572f9dfb3b336047167d268ea6/output/jars/classes.jar"
         jumboMode="false"
@@ -918,15 +873,6 @@
         revision="25.0.0"
         sha1="4caf75b2cfb7ec6e80a57d0ee64fc102ad3578b8">
         <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2a4de62ae61a91afc1108c912202a799e5243259/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/1ddcceb5a4f1ea93394d4529e983eb6fdcc77b76/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="67a7d712de3e7d025f4efdcec1da183f764bdbab">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_a407a143e34d392bded2788816e9a22474c7ae1d.jar" />
     </item>
     <item
         is-multidex="true"
@@ -938,22 +884,40 @@
         <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_84827c9f3259c6068cc63fc45b6e3718c72a741b/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/9567f6caa650678d888bce9ff209c705385cf6c1/output/jars/classes.jar"
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/47346ab8d0e62e1c596c1b2a08af57a59a82a23f/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.0"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_2e546196c10492a06c877350945a2ff824da1531.jar" />
+        revision="25.0.2"
+        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5350a9a1d7d22cd18c41e1d41e101780c2e090d8/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/da297f46f2c2554bcd94cf9865ae665771135ff6/output/jars/classes.jar"
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/8360b13801de06242fa7c26b8bd69f4792a80ae5/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.0"
-        sha1="b8bedab61b3b5238cd9a07d3b04449d7fecdbc3b">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_4ec284ace34f52852bd72959f6b62ecae0e5d402.jar" />
+        revision="25.0.2"
+        sha1="69472e334350cafbf442776da05c9a04955252fb">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_98d28fbb451b586e66220c32d86175b06e97eb34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/20b379cb0c6db25f3a8766f9c3c2eebaba4e6f73/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_40cd212ef3f21266913b028c75206811ffa94139/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samarthgupta/.android/build-cache/32120b2c2980e75040754387942507c736412593/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="817b9101192f2fd6dc0fd8cd522d8f4a1a75fcdc">
+        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_23a360856bd1e32340f0843cefdc407c2ba7684d/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -965,15 +929,6 @@
         <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7b40bda2a88d0837fdc4610a48a090b001926864/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/45d8575491cf112a587b3276f42f2b22c9941891/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_28ffe27dca8a812d716455f782162663e5062e89.jar" />
-    </item>
-    <item
         is-multidex="true"
         jar="/Users/samarthgupta/.android/build-cache/da297f46f2c2554bcd94cf9865ae665771135ff6/output/jars/classes.jar"
         jumboMode="false"
@@ -981,15 +936,6 @@
         revision="25.0.0"
         sha1="b8bedab61b3b5238cd9a07d3b04449d7fecdbc3b">
         <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4ec284ace34f52852bd72959f6b62ecae0e5d402/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/samarthgupta/.android/build-cache/d9a48935e2bda53692a38da5a888f8dd1c4dcd02/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c11cf7a7a6e5adf8fa564303a11dbc351fc11b7c">
-        <dex dex="/Users/samarthgupta/AndroidStudioProjects/Bus-Scanner-master/app/build/intermediates/pre-dexed/debug/classes_7b40bda2a88d0837fdc4610a48a090b001926864.jar" />
     </item>
 
 </items>
